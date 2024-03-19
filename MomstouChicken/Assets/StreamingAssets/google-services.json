@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "5429197957",
+    "firebase_url": "https://momstouchicken-d024d-default-rtdb.firebaseio.com",
+    "project_id": "momstouchicken-d024d",
+    "storage_bucket": "momstouchicken-d024d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5429197957:android:69385938378d0d3b02bdec",
+        "android_client_info": {
+          "package_name": "com.RootStoneGames.MomstouChicken"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtcG5SqBNxQ5T7lsN0o5DRzVgE86OAs4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
