@@ -14,10 +14,10 @@ public class FirebaseManager : MonoBehaviour
     {
         m_Reference = FirebaseDatabase.DefaultInstance.RootReference;
 
-        WriteUserData("0", "aaaa");
-        WriteUserData("1", "bbbb");
-        WriteUserData("2", "cccc");
-        WriteUserData("3", "dddd");
+        //WriteUserData("0", "aaaa");
+        //WriteUserData("1", "bbbb");
+        //WriteUserData("2", "cccc");
+        //WriteUserData("3", "dddd");
 
         ReadUserData();
     }
